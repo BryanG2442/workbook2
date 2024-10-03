@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="99513cd0-44a6-4cb2-b9ca-dc1368a2dd0b" name="Changes" comment="AWDqwx">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AddressBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AddressBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HighScoreWins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HighScoreWins.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "BryanG2442"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/BryanG2442/workbook2",
+    "accountId": "2634b9a1-485d-4625-b117-00b1e8818313"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -36,6 +50,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AddressBuilder.executor": "Run",
     "Application.FullNameParser.executor": "Run",
     "Application.HighScoreWins.executor": "Run",
     "Application.Strings.executor": "Run",
@@ -64,7 +79,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727972401899</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="AWDqwx">
+      <option name="closed" value="true" />
+      <created>1727976381774</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727976381774</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
