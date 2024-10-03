@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99513cd0-44a6-4cb2-b9ca-dc1368a2dd0b" name="Changes" comment="AWD">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AddressBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FullNameParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HighScoreWins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TheaterReservations.java" afterDir="false" />
+    <list default="true" id="99513cd0-44a6-4cb2-b9ca-dc1368a2dd0b" name="Changes" comment="AWDqwx">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,10 +56,20 @@
       <option name="presentableId" value="Default" />
       <updated>1727905552869</updated>
     </task>
+    <task id="LOCAL-00001" summary="AWDqwx">
+      <option name="closed" value="true" />
+      <created>1727972401899</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727972401899</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="AWD" />
-    <option name="LAST_COMMIT_MESSAGE" value="AWD" />
+    <MESSAGE value="AWDqwx" />
+    <option name="LAST_COMMIT_MESSAGE" value="AWDqwx" />
   </component>
 </project>
